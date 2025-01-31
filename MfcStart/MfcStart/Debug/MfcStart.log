@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  DlgImage.cpp
+b:\programing\project\mfcstart\mfcstart\dlgimage.cpp(212): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+b:\programing\project\mfcstart\mfcstart\dlgimage.cpp(213): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+b:\programing\project\mfcstart\mfcstart\dlgimage.cpp(218): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MfcStart.cpp
+  MfcStartDlg.cpp
+  코드를 생성하고 있습니다...
+MfcStartDlg.obj : warning LNK4258: '/entry:WinMainCRTStartup' 지시문은 '/ENTRY:wWinMainCRTStartup' 스위치와 호환되지 않습니다. 무시됩니다.
+  MfcStart.vcxproj -> B:\Programing\project\MfcStart\Debug\MfcStart.exe
